@@ -6,5 +6,6 @@ There are 2 datasets used for this project. One is images in numpy file, the sec
 
 There are 2000 images in the dataset.
 
-Please go to the link below to download the dataset.
+Please go to the link below to download the dataset:
+
 https://www.kaggle.com/datasets/fmena14/crowd-counting
