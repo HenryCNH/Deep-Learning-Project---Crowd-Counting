@@ -6,7 +6,6 @@ Please go to the link below to download the dataset:
 https://www.kaggle.com/datasets/fmena14/crowd-counting
 
 There are 2 datasets used in this project. One is a numpy file containing all 2000 image data, the second one contains labels that represent the number of people in each image in a CSV file.
-There are a total of 2000 images in the dataset.
 
 ## The whole model can be divided in to the following parts:
 
