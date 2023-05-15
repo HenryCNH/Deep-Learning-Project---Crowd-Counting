@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib.pyplot
-tensorflow
-keras
-Most updated version for each library.
