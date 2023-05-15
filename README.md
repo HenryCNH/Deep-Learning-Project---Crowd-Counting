@@ -1,4 +1,4 @@
-## Deep-Learning-Project---Crowd-Counting
+# Deep-Learning-Project---Crowd-Counting
 
 This is a deep learning model for counting how many people in each image in a mall. It used CNN as the base model.
 
@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/fmena14/crowd-counting
 There are 2 datasets used in this project. One is a numpy file containing all 2000 image data, the second one contains labels that represent the number of people in each image in a CSV file.
 There are a total of 2000 images in the dataset.
 
-# The whole model can be divided in to the following parts:
+## The whole model can be divided in to the following parts:
 
 1. Data Importing
 2. Demonstrating some imported dataset
