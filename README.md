@@ -4,7 +4,7 @@ This is a deep learning model for counting how many people in each image in a ma
 
 There are 2 datasets used IN this project. One is a numpy file containing image data, the second one is labels in CSV file labelling the number of people in each image.
 
-There are 2000 images in the dataset.
+There are a total of 2000 images in the dataset.
 
 Please go to the link below to download the dataset:
 
