@@ -11,7 +11,7 @@ There are 2 datasets used in this project.
 1. A numpy file containing all 2000 image data.
 2. A CSV files that contains labels that represent the number of people in each image.
 
-## The whole model is composed of the following parts:
+## The entire model is composed of the following parts:
 
 1. Data importing.
 2. Demonstrating some imported dataset.
