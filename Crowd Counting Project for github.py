@@ -4,11 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pandas import DataFrame
 import operator
-from tqdm import tqdm
-from sklearn import preprocessing
-from sklearn.datasets import load_digits
-from sklearn.feature_selection import SelectKBest, chi2
-from scipy.stats import boxcox
 import random
 import tensorflow as tf
 from tensorflow import keras
