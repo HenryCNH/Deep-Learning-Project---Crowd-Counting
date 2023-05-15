@@ -1,6 +1,6 @@
 ## Deep-Learning-Project---Crowd-Counting
 
-This is a deep learning model for counting how many people in each image in a mall. The images were captured in a fixed camera with a fixed angle. The base model adopted in this project is CNN. The model shows satisfying performance targeting the below dataset.
+This is a deep learning model for counting how many people in each image in a mall. The images were captured by a fixed camera with a fixed angle. The base model adopted in this project is CNN. The model shows satisfying performance targeting the below dataset.
 
 ## Dataset Description
 Please go to the link below to download the dataset:
